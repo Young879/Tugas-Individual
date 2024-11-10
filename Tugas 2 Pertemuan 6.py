@@ -2,7 +2,7 @@
 #NIM : 2402053
 #Kelas: RPL 1A
 
-x = int(input("Masukkan Nilai: "))
+x = int(input("Masukkan Nilai bang: "))
 
 if (x % 2):
     print("adalah bilangan ganjil")
